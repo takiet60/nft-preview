@@ -1,0 +1,10 @@
+@use 'colors'as *;
+
+:root {
+    --clr-soft-blue: #{$clr-soft-blue};
+    --clr-cyan: #{$clr-cyan};
+    --clr-main-bg: #{$clr-main-bg};
+    --clr-card-bg: #{$clr-card-bg};
+    --clr-line: #{$clr-line};
+    --clr-white: #{$clr-white};
+}
